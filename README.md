@@ -8,4 +8,3 @@ PHP 8.2
 
 -   File SQL berada pada folder db.
 -   Laravel yang digunakan adalah versi 11.
-# varnion_test_1
